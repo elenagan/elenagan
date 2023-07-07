@@ -6,11 +6,11 @@ I'm a former high school teacher who has always been passionate about giving bac
 
 # Education
 
-Bachelor of Arts in International Relations with a minor in Commerce (2017)
+- Bachelor of Arts in International Relations with a minor in Commerce (2017)
 
-Bachelor of Education (2018)
+- Bachelor of Education (2018)
 
-Master of Data Science (2023)
+- Master of Data Science (2023)
 
 # Skills
 

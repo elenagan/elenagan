@@ -6,11 +6,23 @@ I'm a former high school teacher who has always been passionate about giving bac
 
 # Education
 
-Bachelor of Arts in International Relations with a minor in Commerce
+Bachelor of Arts in International Relations with a minor in Commerce (2017)
 
-Bachelor of Education
+Bachelor of Education (2018)
 
-Master of Data Science (in progress)
+Master of Data Science (2023)
+
+# Skills
+
+- Data analysis and visualization
+- Statistical inference
+- Supervised and unsupervised machine learning
+- Office 365: Word, Excel, Teams, PowerPoint, OneDrive, OneNote
+- Python : Pandas, Sci-Kit Learn, Pytorch, jupyterbook, Altair, Matplotlib, Dash 
+- R : Tidyverse, rstan, rMarkdown, ggplot2, Shiny 
+- Databases : SQL, MongoDB 
+- Dev tools : Git/GitHub, Docker, Make, poetry, AWS, Spark
+- Fluent English and Bulgarian, proficient French, knowledge of Japanese and Russian
 
 # Hobbies and Interests:
 
